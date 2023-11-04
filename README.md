@@ -35,7 +35,7 @@
 <img align="left" alt="Kali" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" >
 <img align="left" alt="Parrot" width="26px" src="./img/parrot_os.svg" style="padding-right:10px;" >
 
-<br><br>
+<br><br><br>
 
 ### My latest blog posts: 📰
 <!-- BLOG-POST-LIST:START -->
