@@ -25,7 +25,7 @@
 <img align="left" alt="MySql" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original-wordmark.svg" style="padding-right:10px;" >
 <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" >
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original-wordmark.svg" style="padding-right:10px;" >
-<img align="left" alt="Raspberry PI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original-wordmark.svg" style="padding-right:10px;" >
+<img align="left" alt="Raspberry PI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original-wordmark.svg" style="padding-right:10px;" ><br><br>
 
 
 ## Connect with me: 🫱🏽‍🫲🏼
