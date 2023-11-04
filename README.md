@@ -18,6 +18,9 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/I3a4dam#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/I3a4dam#gh-dark-mode-only)
 
+## Tools and languages: 🛠️
+<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" style="padding-right:10px;" >
+
 [//]: <> (Definitions)
 [website]: https://baadamsecurity.com
 [twitter]: https://twitter.com/I3a4dam
