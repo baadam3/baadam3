@@ -37,6 +37,9 @@
 
 <br><br>
 
+### My latest blog posts: 📰
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## Connect with me: 🫱🏽‍🫲🏼
 [![website](./img/globe-light.svg)](https://baadamsecurity.com#gh-light-mode-only)
