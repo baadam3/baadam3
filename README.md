@@ -46,7 +46,7 @@
 ### Top languages: ⌨️
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baadam3&size_weight=0.5&count_weight=0.5&layout=compact)
 <br><br>
-### GitHub stats: <img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" > <br>
+### GitHub stats: <br><img align="left" alt="Github" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/github/github-original.svg" style="padding-right:10px;" > <br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
 
 <br><br>
