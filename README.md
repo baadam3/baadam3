@@ -44,7 +44,7 @@
 
 ---
 ### Top languages: ⌨️
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baadam3&size_weight=0.5&count_weight=0.5&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baadam3&size_weight=0.5&count_weight=0.5&layout=donut)
 <br><br>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
 
