@@ -25,7 +25,17 @@
 <img align="left" alt="MySql" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/mysql/mysql-original.svg" style="padding-right:10px;" >
 <img align="left" alt="PHP" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" style="padding-right:10px;" >
 <img align="left" alt="Python" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" style="padding-right:10px;" >
-<img align="left" alt="Raspberry PI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" ><br><br>
+<img align="left" alt="Raspberry PI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" >
+<img align="left" alt="Burp" width="26px" src="https://www.kali.org/images/tool-logo-burp.svg" style="padding-right:10px;" >
+<img align="left" alt="Metasploit" width="26px" src="https://www.kali.org/images/tool-logo-metasploit.svg" style="padding-right:10px;" >
+<img align="left" alt="SQLMap" width="26px" src="https://www.kali.org/images/tool-logo-sqlmap.svg" style="padding-right:10px;" >
+<img align="left" alt="Wireshark" width="26px" src="https://www.kali.org/images/tool-logo-wireshark.svg" style="padding-right:10px;" >
+<img align="left" alt="John" width="26px" src="https://www.kali.org/images/tool-logo-john.svg" style="padding-right:10px;" >
+<img align="left" alt="Nmap" width="26px" src="https://www.kali.org/images/tool-logo-nmap.svg" style="padding-right:10px;" >
+<img align="left" alt="Kali" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" >
+<img align="left" alt="Parrot" width="26px" src="https://gitlab.com/parrotsec/project/graphics/-/blob/d19ac8a11292136cda4b1df80a2bd156f768fed8/logo/parrot-logo.svg?plain=0" style="padding-right:10px;" >
+
+<br><br>
 
 
 ## Connect with me: 🫱🏽‍🫲🏼
