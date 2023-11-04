@@ -1,6 +1,5 @@
-<div align=center> 
-  <h1> Welcome, I am <a href="https://twitter.com/I3a4dam" style="color: #9b51e0">I3a4dam</a> and this is my GitHub profile! 👋🏼 </h1>
-</div>
+# Welcome, I am [I3a4dam][website] and this is my GitHub profile! 👋🏼
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/I3a4dam?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaadam3&screen_name=I3a4dam)
 [![Website](https://img.shields.io/website?label=baadamsecurity.com&url=https%3A%2F%2Fbaadamsecurity.com)](https://baadamsecurity.com)
