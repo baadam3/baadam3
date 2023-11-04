@@ -39,6 +39,7 @@
 
 ### My latest blog posts: 📰
 <!-- BLOG-POST-LIST:START -->
+- [THM Pickle Rick write-up](https://baadamsecurity.com/thm-pickle-rick-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-pickle-rick-write-up)
 <!-- BLOG-POST-LIST:END -->
 
 ## Connect with me: 🫱🏽‍🫲🏼
