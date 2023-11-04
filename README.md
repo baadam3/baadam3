@@ -42,6 +42,11 @@
 - [THM Pickle Rick write-up](https://baadamsecurity.com/thm-pickle-rick-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-pickle-rick-write-up)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3)](https://github.com/baadam3/github-readme-stats)
+
+<br><br>
 ## Connect with me: 🫱🏽‍🫲🏼
 [![website](./img/globe-light.svg)](https://baadamsecurity.com#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://baadamsecurity.com#gh-dark-mode-only)
