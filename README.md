@@ -44,7 +44,7 @@
 
 ---
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=I3a4dam&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
 
 <br><br>
 ## Connect with me: 🫱🏽‍🫲🏼
