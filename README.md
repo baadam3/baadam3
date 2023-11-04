@@ -33,7 +33,7 @@
 <img align="left" alt="John" width="26px" src="https://www.kali.org/images/tool-logo-john.svg" style="padding-right:10px;" >
 <img align="left" alt="Nmap" width="26px" src="https://www.kali.org/images/tool-logo-nmap.svg" style="padding-right:10px;" >
 <img align="left" alt="Kali" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" >
-<img align="left" alt="Parrot" width="26px" src="https://brandfetch.com/parrotsec.org/library/default/asset/iddBQBH9XD?collection=logos&view=library" style="padding-right:10px;" >
+<img align="left" alt="Parrot" width="26px" src="./img/parrot_os.svg" style="padding-right:10px;" >
 
 <br><br>
 
