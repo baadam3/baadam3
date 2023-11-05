@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/I3a4dam?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaadam3&screen_name=I3a4dam)
 [![Website](https://img.shields.io/website?label=baadamsecurity.com&url=https%3A%2F%2Fbaadamsecurity.com)](https://baadamsecurity.com)
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=baadam3&countColor=%237CFC00&style=plastic)](https://visitorbadge.io/status?path=baadam3)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=baadam3&countColor=%2332CD32&style=plastic)](https://visitorbadge.io/status?path=baadam3)
 
 ## I am a junior ethical hacker with a cybersecurity B.Sc. 👨🏽‍💻
 
