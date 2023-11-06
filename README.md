@@ -40,6 +40,7 @@
 
 ### My latest blog posts: 📰
 <!-- BLOG-POST-LIST:START -->
+- [What are web shells?](https://baadamsecurity.com/what-are-web-shells/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-web-shells)
 - [THM Pickle Rick write-up](https://baadamsecurity.com/thm-pickle-rick-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-pickle-rick-write-up)
 <!-- BLOG-POST-LIST:END -->
 
