@@ -40,6 +40,7 @@
 
 ### My latest blog posts: 📰
 <!-- BLOG-POST-LIST:START -->
+- [The beginning of a journey](https://baadamsecurity.com/the-beginning-of-a-journey/?utm_source=rss&utm_medium=rss&utm_campaign=the-beginning-of-a-journey)
 - [THM – Basic Pentesting write-up](https://baadamsecurity.com/thm-basic-pentesting-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-basic-pentesting-write-up)
 - [What the &lpar;web&rpar; shell?](https://baadamsecurity.com/what-are-web-shells/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-web-shells)
 - [THM Pickle Rick write-up](https://baadamsecurity.com/thm-pickle-rick-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-pickle-rick-write-up)
