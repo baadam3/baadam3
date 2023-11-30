@@ -57,7 +57,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
 
 ### TryHackMe status: 🥷🏼
-![tryhackme stats](https://raw.githubusercontent.com/baadam3/baadam3/master/assets/thm_propic.png)
+[![tryhackme stats](https://raw.githubusercontent.com/baadam3/baadam3/main/assets/thm_propic.png)](https://raw.githubusercontent.com/baadam3/baadam3/main/assets/thm_propic.png)
 
 <br><br>
 ## Connect with me: 🫱🏽‍🫲🏼
