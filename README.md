@@ -60,6 +60,7 @@
 window.$docsify = {
   executeScript: true,
 };
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
 <script src="https://tryhackme.com/badge/1287531"></script>
 
 <br><br>
