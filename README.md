@@ -59,7 +59,7 @@
 ### TryHackMe status: 🥷🏼
 <img src="https://tryhackme-badges.s3.amazonaws.com/retellinglowerc.png" alt="TryHackMe">
 
-<p><script src="https://tryhackme.com/badge/1287531"></script></p>
+<script src="https://tryhackme.com/badge/1287531"> </script>
 
 <br><br>
 ## Connect with me: 🫱🏽‍🫲🏼
