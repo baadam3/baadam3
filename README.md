@@ -57,13 +57,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=baadam3&show_icons=true&theme=dracula&hide_border=true)](https://github.com/baadam3/github-readme-stats)
 
 ### TryHackMe status: 🥷🏼
-window.$docsify = {
-  executeScript: true,
-};
-
-<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/external-script.min.js"></script>
-
-<script src="https://tryhackme.com/badge/1287531"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/retellinglowerc.png" alt="TryHackMe">
 
 <br><br>
 ## Connect with me: 🫱🏽‍🫲🏼
