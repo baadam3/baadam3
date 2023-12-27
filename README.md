@@ -40,11 +40,11 @@
 
 ### My latest blog posts: 📰
 <!-- BLOG-POST-LIST:START -->
+- [TryHackMe Advent of Cyber ’23 Side Quest](https://baadamsecurity.com/tryhackme-advent-of-cyber-23-side-quest/?utm_source=rss&utm_medium=rss&utm_campaign=tryhackme-advent-of-cyber-23-side-quest)
 - [THM Simple CTF write-up](https://baadamsecurity.com/thm-simple-ctf-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-simple-ctf-write-up)
 - [RootMe – Easy THM write-up](https://baadamsecurity.com/rootme-easy-thm-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=rootme-easy-thm-write-up)
 - [The beginning of a journey](https://baadamsecurity.com/the-beginning-of-a-journey/?utm_source=rss&utm_medium=rss&utm_campaign=the-beginning-of-a-journey)
 - [THM – Basic Pentesting write-up](https://baadamsecurity.com/thm-basic-pentesting-write-up/?utm_source=rss&utm_medium=rss&utm_campaign=thm-basic-pentesting-write-up)
-- [What the &lpar;web&rpar; shell?](https://baadamsecurity.com/what-are-web-shells/?utm_source=rss&utm_medium=rss&utm_campaign=what-are-web-shells)
 <!-- BLOG-POST-LIST:END -->
 
 ---
