@@ -1,6 +1,6 @@
 # Welcome, I am I3a4dam and this is my GitHub profile! 👋🏼
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/I3a4dam?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaadam3&screen_name=B4D4M)
+[![Twitter Follow](https://img.shields.io/twitter/follow/I3a4dam?color=1DA1F2&logo=twitter&style=flat)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fbaadam3&screen_name=ba4dam)
 [![Website](https://img.shields.io/website?label=baadamsecurity.com&url=https%3A%2F%2Fbaadamsecurity.com)](https://baadamsecurity.com)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=baadam3&countColor=%2332CD32&style=plastic)](https://visitorbadge.io/status?path=baadam3)
 
