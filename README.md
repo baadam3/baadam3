@@ -29,10 +29,7 @@
 <img align="left" alt="Raspberry PI" width="26px" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/raspberrypi/raspberrypi-original.svg" style="padding-right:10px;" >
 <img align="left" alt="Burp" width="26px" src="https://www.kali.org/images/tool-logo-burp.svg" style="padding-right:10px;" >
 <img align="left" alt="Metasploit" width="26px" src="https://www.kali.org/images/tool-logo-metasploit.svg" style="padding-right:10px;" >
-<img align="left" alt="SQLMap" width="26px" src="https://www.kali.org/images/tool-logo-sqlmap.svg" style="padding-right:10px;" >
 <img align="left" alt="Wireshark" width="26px" src="https://www.kali.org/images/tool-logo-wireshark.svg" style="padding-right:10px;" >
-<img align="left" alt="John" width="26px" src="https://www.kali.org/images/tool-logo-john.svg" style="padding-right:10px;" >
-<img align="left" alt="Nmap" width="26px" src="https://www.kali.org/images/tool-logo-nmap.svg" style="padding-right:10px;" >
 <img align="left" alt="Kali" width="26px" src="https://www.kali.org/images/kali-logo.svg" style="padding-right:10px;" >
 <img align="left" alt="Parrot" width="26px" src="./img/parrot_os.svg" style="padding-right:10px;" >
 
